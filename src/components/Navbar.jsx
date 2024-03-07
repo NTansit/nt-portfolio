@@ -29,7 +29,7 @@ export default function Navbar() {
         </div>
       </nav>
       <nav id="hamburger-nav">
-        <div className="logo">John Doe</div>
+        <div className="logo">Nathapon Tansit</div>
         <div className="hamburger-menu">
           <div
             className={`hamburger-icon ${isMenuOpen && "open"}`}
